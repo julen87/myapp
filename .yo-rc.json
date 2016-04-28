@@ -1,0 +1,30 @@
+{
+  "generator-jhipster": {
+    "jhipsterVersion": "3.1.0",
+    "baseName": "MyApp",
+    "packageName": "es.julen.myapp",
+    "packageFolder": "es/julen/myapp",
+    "serverPort": "8080",
+    "authenticationType": "session",
+    "hibernateCache": "no",
+    "clusteredHttpSession": "no",
+    "websocket": "no",
+    "databaseType": "mongodb",
+    "devDatabaseType": "mongodb",
+    "prodDatabaseType": "mongodb",
+    "searchEngine": "no",
+    "buildTool": "gradle",
+    "enableSocialSignIn": true,
+    "rememberMeKey": "b99bca4a78c54786250d7ce45c516ab11215bae1",
+    "useSass": true,
+    "applicationType": "monolith",
+    "testFrameworks": [],
+    "jhiPrefix": "jhi",
+    "enableTranslation": true,
+    "nativeLanguage": "es",
+    "languages": [
+      "es",
+      "en"
+    ]
+  }
+}
